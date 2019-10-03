@@ -6,9 +6,9 @@
 [![PyPi PyVersions](https://img.shields.io/pypi/pyversions/bsedata.svg)](https://pypi.org/project/bsedata/)
 [![PyPi Format](https://img.shields.io/pypi/format/bsedata.svg)](https://pypi.org/project/bsedata/)
 
-| master | dev |
-|--------|-----|
-|![TravicCI master](https://api.travis-ci.com/sdabhi23/bsedata.svg?branch=master)| ![TravisCI dev](https://api.travis-ci.com/sdabhi23/bsedata.svg?branch=dev) |
+| master                                                                           | dev                                                                        |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| ![TravicCI master](https://api.travis-ci.com/sdabhi23/bsedata.svg?branch=master) | ![TravisCI dev](https://api.travis-ci.com/sdabhi23/bsedata.svg?branch=dev) |
 
 Python library for extracting real-time data from Bombay Stock Exchange (India).
 
@@ -28,32 +28,31 @@ The data is as accurate as provided on the [BSE website](m.bseindia.com).
 
 ## Features:
 
-* Getting live quotes using stock codes in Python dicttionaries
-* Getting list of top losers
-* Getting list of top gainers
-* Getting quotes for all the indices traded in BSE
-* Helper APIs to check whether a given stock code or index code is correct
-* Getting list of all indices and stocks
+- Getting live quotes using stock codes in Python dicttionaries
+- Getting list of top losers
+- Getting list of top gainers
+- Getting quotes for all the indices traded in BSE
+- Helper APIs to check whether a given stock code or index code is correct
+- Getting list of all indices and stocks
 
 ## Roadmap:
 
-* Get details of an individual index
-* Complete unit test coverage
-* Daily OHLCV data
-* Historical EOD OHLCV data
+- Get details of an individual index
+- Complete unit test coverage
+- Daily OHLCV data
+- Historical EOD OHLCV data
 
 ## Dependencies
 
-* [BeautifulSoup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-* [Requests](http://docs.python-requests.org/en/master/)
-* A working internet connection :wink:
+- [BeautifulSoup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Requests](http://docs.python-requests.org/en/master/)
+- A working internet connection :wink:
 
 ## Usage
 
 Refer the documentation at https://bsedata.readthedocs.io/en/latest/usage.html
 
 ## Change Log
-
 
 ### v0.3.0
 
